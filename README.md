@@ -47,3 +47,25 @@ Interview Preparation Resources
 * System Design (High-level design) [GAURAV SEN](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * Object Oriented Design (Low-level design)
 
+# Youtube Channels
+* Brototype DS challenge
+* Jenny's lectures CS/IT NET&JRF - YouTube
+* Abdul Bari - YouTube
+* Byte by Byte
+* Neetcode
+* Take u Forward
+* Lead Coding by Fraz
+* LUV
+* Love Babbar
+* Pep coding
+* Tech dose 
+* Aditya verma
+* Tushar roy
+* Apna College
+* CodeLibrary - by Yogesh & Shailesh
+* Gaurav sen
+* Rachit Jain
+* Nick white
+* codeNcode
+
+
