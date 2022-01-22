@@ -7,7 +7,11 @@ Interview Preparation Resources
 
 
 # Structured Paid Courses
-* Structured Paid course : [Coding Ninjas](https://www.codingninjas.com/) , Coding Blocks
+* Structured Paid course : [Coding Ninjas](https://www.codingninjas.com/) 
+* Coding Blocks Prateek Narang’s Course on DS Algo - udemy
+* Grokking the coding interview - patterns for coding questions
+* Grokking Dynamic Programming
+
 
 # COUPLE OF CHEATSHEETS -> Structured plan of covering all DSA Topics 
 * SDE Sheet : Striver’s SDE Sheet (**Gold Standard** 30 days to prepare for Interviews) [SDE SHEET LINK](https://docs.google.com/document/d/1T7-c2Sf2Rwp9HZ-gVtXD-QsNIgDO0U72Ex89We5U_Mo/edit?usp=sharing) 
