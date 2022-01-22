@@ -10,7 +10,7 @@ Interview Preparation Resources
 * Structured Paid course : [Coding Ninjas](https://www.codingninjas.com/) , Coding Blocks
 
 # COUPLE OF CHEATSHEETS -> Structured plan of covering all DSA Topics 
-* SDE Sheet : Striver’s SDE Sheet (*Gold Standard* 30 days to prepare for Interviews) [SDE SHEET LINK](https://docs.google.com/document/d/1T7-c2Sf2Rwp9HZ-gVtXD-QsNIgDO0U72Ex89We5U_Mo/edit?usp=sharing) 
+* SDE Sheet : Striver’s SDE Sheet (**Gold Standard** 30 days to prepare for Interviews) [SDE SHEET LINK](https://docs.google.com/document/d/1T7-c2Sf2Rwp9HZ-gVtXD-QsNIgDO0U72Ex89We5U_Mo/edit?usp=sharing) 
 * Beginner’s coding sheet by Siddarth Singh [CHEAT SHEET LINK](https://drive.google.com/file/d/1jtQyoiLaANK3Yj72K7vlIvoQFb-lvtvF/view)
 * Love Babbar Sheet : [DSA Cracker Sheet Link](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
 * Blind 75 leetcode questions
