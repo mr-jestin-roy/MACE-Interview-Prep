@@ -1,5 +1,6 @@
 # MACE-Interview-Prep
-Interview Preparation Resources
+Tech Interview Preparation Resources
+***You journey of resource hunting ends here!!***
 # Books
 * Books wise : Cormen (CRLS) = Intro to Algorithms available in the library , ( PDF Uploaded above )
 * Cracking the coding interviews 
