@@ -1,5 +1,6 @@
 # MACE-Interview-Prep
-Interview Preparation Resources
+Tech Interview Preparation Resources
+***You journey of resource hunting ends here!!***
 # Books
 * Books wise : Cormen (CRLS) = Intro to Algorithms available in the library , ( PDF Uploaded above )
 * Cracking the coding interviews 
@@ -13,7 +14,7 @@ Interview Preparation Resources
 * Grokking Dynamic Programming
 
 
-# COUPLE OF CHEATSHEETS -> Structured plan of covering all DSA Topics 
+# CHEATSHEETS -> Structured plan of covering all DSA Topics 
 * SDE Sheet : Striver’s SDE Sheet (**Gold Standard** 30 days to prepare for Interviews) [SDE SHEET LINK](https://docs.google.com/document/d/1T7-c2Sf2Rwp9HZ-gVtXD-QsNIgDO0U72Ex89We5U_Mo/edit?usp=sharing) 
 * Beginner’s coding sheet by Siddarth Singh [CHEAT SHEET LINK](https://drive.google.com/file/d/1jtQyoiLaANK3Yj72K7vlIvoQFb-lvtvF/view)
 * Love Babbar Sheet : [DSA Cracker Sheet Link](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
@@ -46,4 +47,26 @@ Interview Preparation Resources
 * Computer Network  [GATE SMASHERS](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 * System Design (High-level design) [GAURAV SEN](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * Object Oriented Design (Low-level design)
+
+# Youtube Channels
+* Brototype DS challenge
+* Jenny's lectures CS/IT NET&JRF - YouTube
+* Abdul Bari - YouTube
+* Byte by Byte
+* Neetcode
+* Take u Forward
+* Lead Coding by Fraz
+* LUV
+* Love Babbar
+* Pep coding
+* Tech dose 
+* Aditya verma
+* Tushar roy
+* Apna College
+* CodeLibrary - by Yogesh & Shailesh
+* Gaurav sen
+* Rachit Jain
+* Nick white
+* codeNcode
+
 
